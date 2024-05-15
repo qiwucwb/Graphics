@@ -1,8 +1,0 @@
-rule1:
-  area: SRP Architecture & API
-
-rule2:
-  when:
-    path:
-      - ^.*SpeedTree.*$
-  area: Environment Effects
